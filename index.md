@@ -1,4 +1,4 @@
-Hi, I'm a software engineer in Michigan. I love writing great software in C++, and more recently, Swift. Here are some of the things I've been working on lately.
+I'm a software engineer in Michigan. I love writing great software in C++, and more recently, Swift. Here are some of the things I've been working on lately.
 
 [Cutlines](https://cutlines.jbruce.me) - A universal iOS app for adding captions to photos.
 
