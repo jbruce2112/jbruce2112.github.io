@@ -1,4 +1,6 @@
-I'm a software engineer in Michigan. I love writing great software in C++, and more recently, Swift. Here are some of the things I've been working on lately.
+I'm an iOS Developer at Expedia in San Francisco. I love building apps that are focused on making users happy, and pride myself in writing clean, highly testable code.
+
+Here are some of the things I've been working on lately.
 
 [Cutlines](https://cutlines.jbruce.me) - A universal iOS app for adding captions to photos.
 
